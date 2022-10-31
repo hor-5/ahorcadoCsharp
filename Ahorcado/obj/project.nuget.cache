@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AKnglHiT8EonWoU9uHY5BJtn4wGe7tglA2+BE9AhGAwx6Q8Tgdmh80qOp2yAmPOa2YtEuaXXguBHkybruORsbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\Ahorcado\\Ahorcado\\Ahorcado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
